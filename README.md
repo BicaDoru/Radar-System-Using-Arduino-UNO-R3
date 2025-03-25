@@ -14,7 +14,7 @@ This project demonstrates a simple **Radar System** using an **Arduino UNO**, an
 | Arduino UNO                | 1        |
 | HC-SR04 Ultrasonic Sensor  | 1        |
 | SG90 Servo Motor           | 1        |
-| Jumper Wires               | 25       |
+| Jumper Wires               | 29       |
 | Breadboard                 | 1        |
 | 220 Ohm Resistor           | 2        |
 | Active Buzzer              | 1        |
