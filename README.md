@@ -20,10 +20,6 @@ This project demonstrates a simple **Radar System** using an **Arduino UNO**, an
 | Active Buzzer              | 1        |
 | Red LED                    | 1        |
 
-## 🔌 Wiring Guide
-![Wiring Diagram](![ec18f81e-930c-4fe4-bd0f-dd80a0f5ec46](https://github.com/user-attachments/assets/a345672f-e302-44b8-9da5-280d72068136)
-)
-
 ## ▶️ How to Use
 1. **Assemble the circuit** following the wiring guide.
 2. **Upload the provided Arduino code** to your Arduino UNO.
