@@ -21,7 +21,7 @@ This project demonstrates a simple **Radar System** using an **Arduino UNO**, an
 | Red LED                    | 1        |
 
 ## 🔌 Wiring Guide
-![Wiring Diagram](https://ibb.co/VpSjsZZR)
+![Wiring Diagram]((https://i.ibb.co/G32xqLLy/ec18f81e-930c-4fe4-bd0f-dd80a0f5ec46.jpg))
 
 ## ▶️ How to Use
 1. **Assemble the circuit** following the wiring guide.
