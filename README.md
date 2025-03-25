@@ -29,6 +29,4 @@ This project demonstrates a simple **Radar System** using an **Arduino UNO**, an
 
 ---
 
-**📌 Note:**  
-This project can be expanded by adding a **display** to show distance readings or integrating a **graphical radar system** using Processing IDE.
 
